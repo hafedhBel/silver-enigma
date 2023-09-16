@@ -16,4 +16,16 @@
 		background-position: 0% 50%;
 	}
 }
+.icon-square {
+  width: 3rem
+rem
+;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img{
+  height: 200px;
+  border-radius: 50%;
+}
 
